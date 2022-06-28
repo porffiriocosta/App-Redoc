@@ -1,0 +1,18 @@
+.home-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.home-container h2{
+    margin-top: 40px;
+    color: #014AA4;
+    margin-left: 40px;
+
+}
+
+.home-container p{
+    margin-top: 10px;
+    color: #333333;
+    margin-left: 40px;
+
+}
