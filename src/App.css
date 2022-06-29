@@ -20,6 +20,11 @@
   font-size: calc(10px + 2vmin);
 }
 
+a:hover {
+  text-decoration: none;
+  color: unset;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
